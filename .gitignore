@@ -1,3 +1,3 @@
-data/test/Test
-data/train/Train
+data/test/Test/
+data/train/Train/
 .ipynb_checkpoints/
