@@ -1,5 +1,5 @@
 data/test/Test/
 data/train/Train/
 .ipynb_checkpoints/
-data/test/test.zip
-data/train/train.zip
+data/test.zip
+data/train.zip
